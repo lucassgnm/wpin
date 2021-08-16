@@ -17,7 +17,7 @@ This is a small JavasCript plugin to help with web interface design, offering a 
 #### 🏃 Use case:
 
 ## Import the script:
-`<script src="/plugins/wpin.js"></script>`
+`<script src="https://cdn.jsdelivr.net/gh/lucassgnm/wpin@main/wpin.min.js"></script>`
 
 ## Create a div with the name of your choice on target html file
 `<div id="wpin"></div>`
